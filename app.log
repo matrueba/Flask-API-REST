@@ -1,0 +1,469 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2020 23:06:08] "[35m[1mPOST /users/create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2020 00:40:47] "[35m[1mPOST /users/create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2020 01:17:35] "[37mPOST /users/create HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2020 01:25:08] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2020 01:32:18] "[37mGET /users HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/clients.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2020 02:28:18] "[35m[1mPOST /users/create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2020 00:25:33] "[35m[1mPOST /users/create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2020 00:27:12] "[35m[1mPOST /users/create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2020 00:30:28] "[37mPOST /users/create HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2020 00:40:56] "[37mPOST /users/create HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/clients.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/clients.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2020 00:49:53] "[37mPOST /users/create HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2020 01:31:37] "[37mGET /raw_users HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2020 01:32:17] "[37mGET /raw_users HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2020 01:36:16] "[37mGET /raw_users HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2020 01:40:17] "[37mGET /raw_users HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2020 01:48:21] "[37mGET /raw_users/8f97e71d-cfd3-46f9-a2ef-75ec3459810c HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2020 01:06:51] "[37mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/create HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2020 01:08:32] "[37mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/create HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2020 01:09:32] "[37mGET /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/clients.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2020 01:11:08] "[33mGET /clients/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2020 01:11:31] "[37mGET /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/clients.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/clients.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2020 01:38:08] "[31m[1mPOST /users HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2020 01:40:37] "[33mGET /users/ HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2020 01:48:17] "[35m[1mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/measure HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2020 01:48:46] "[35m[1mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/measure HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/clients.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2020 02:21:00] "[35m[1mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/measure HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/clients.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2020 02:29:55] "[35m[1mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/measure HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/clients.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2020 02:30:50] "[37mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/measure HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/operations/user_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/operations/user_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/operations/user_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/operations/user_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 01:36:49] "[35m[1mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 01:37:21] "[35m[1mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 01:39:01] "[35m[1mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/create HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 01:39:29] "[37mGET /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 01:42:14] "[35m[1mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 01:46:01] "[33mGET /users/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 01:46:11] "[37mGET /users HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 01:48:24] "[35m[1mPOST /users/create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 01:52:33] "[35m[1mPOST /users/create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/operations/user_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 02:30:46] "[37mGET /users HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 02:34:06] "[32mGET /users//8f97e71d-cfd3-46f9-a2ef-75ec3459810c HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 02:34:06] "[37mGET /users/8f97e71d-cfd3-46f9-a2ef-75ec3459810c HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 02:35:00] "[32mGET /users//8f97e71d-cfd3-46f9-a2ef-75ec3459810c HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 02:35:52] "[37mGET /users/8f97e71d-cfd3-46f9-a2ef-75ec3459810c HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 02:42:46] "[37mPOST /users/create HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/users.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/endpoints/clients.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 03:11:21] "[35m[1mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/measure HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 03:17:52] "[35m[1mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/measure HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/operations/client_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Detected change in '/home/miguel/PycharmProjects/FlaskProject/operations/client_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-664-128
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2020 03:38:49] "[37mPOST /clients/8f97e71d-cfd3-46f9-a2ef-75ec3459810c/measure HTTP/1.1[0m" 200 -
