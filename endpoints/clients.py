@@ -1,5 +1,4 @@
 from flask import Blueprint, request, jsonify, make_response
-from models import User
 from operations.client_operations import ClientOperations
 
 clients = Blueprint('clients', __name__)

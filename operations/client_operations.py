@@ -1,7 +1,10 @@
-from models import User
+from models.user_model import User
 
 
 class ClientOperations:
+
+    def __init__(self):
+        pass
 
     @staticmethod
     def get_clients(*fields_to_return):

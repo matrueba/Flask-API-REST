@@ -1,5 +1,5 @@
 from flask import Flask
-from setup_db import initialize_db
+from db import initialize_db
 from endpoints.clients import clients
 from endpoints.users import users
 import logging

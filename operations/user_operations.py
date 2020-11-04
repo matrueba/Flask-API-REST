@@ -1,9 +1,12 @@
-from models import User
+from models.user_model import User
 from werkzeug.security import generate_password_hash
 from uuid import uuid4
 
 
 class UserOperations:
+
+    def __init__(self):
+        pass
 
     @staticmethod
     def get_users(*fields_to_return):
